@@ -1,3 +1,3 @@
-# `allsorts.io`
+# allsorts.io
 
 Not much to see.
